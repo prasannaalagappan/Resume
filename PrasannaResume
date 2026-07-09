@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prasanna A - Portfolio</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; margin: 20px; }
+        header { background: #f4f4f4; padding: 20px; text-align: center; }
+        section { margin: 20px 0; }
+        .skills { list-style-type: none; padding: 0; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Prasanna A</h1>
+        <p>Support Engineer | Network & Azure Cloud</p>
+    </header>
+
+    <section>
+        <h2>About Me</h2>
+        <p>B.Tech IT graduate with 1+ year of experience in client-based IT support, network implementation, and Azure cloud administration[cite: 5].</p>
+    </section>
+
+    <section>
+        <h2>Technical Skills</h2>
+        <ul class="skills">
+            <li>Cloud: Azure, Microsoft Entra ID, RBAC [cite: 44]</li>
+            <li>Networking: LAN, Wi-Fi, DNS, TCP/IP basics [cite: 44]</li>
+            <li>Development: Python, Java, MySQL, HTML, CSS [cite: 29, 44]</li>
+        </ul>
+    </section>
+
+</body>
+</html>
